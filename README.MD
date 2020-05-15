@@ -5,4 +5,4 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ![postman request output](screenshots/postman.png)
 
 # Query Screenshot
-![pycharm data query](screenshots/query.png)
+![pycharm data query](screenshots/database.JPG)
